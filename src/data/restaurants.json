@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "r-001",
+    "name": "ครัวบางมด",
+    "category": "ตามสั่ง",
+    "tags": [
+      "ตามสั่ง",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.2,
+    "reviewCount": 30,
+    "distanceKm": 0.2,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ร้านตามสั่งยอดนิยมใกล้ มจธ. เมนูเร็วและอิ่มคุ้ม",
+    "menus": [
+      {
+        "id": "m-001-1",
+        "name": "กะเพราหมูกรอบ + ไข่ดาว",
+        "price": 55,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-001-2",
+        "name": "ข้าวผัดกุ้ง",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-001-3",
+        "name": "หมูกระเทียม",
+        "price": 55,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-001-4",
+        "name": "คะน้าหมูกรอบ",
+        "price": 60,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-002",
+    "name": "KMUTT Canteen",
+    "category": "โรงอาหาร",
+    "tags": [
+      "โรงอาหาร",
+      "บางมด"
+    ],
+    "rating": 4.3,
+    "reviewCount": 47,
+    "distanceKm": 0.3,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "โรงอาหารในพื้นที่ มจธ. มีเมนูหลากหลายและราคาเป็นมิตร",
+    "menus": [
+      {
+        "id": "m-002-1",
+        "name": "ข้าวแกง 2 อย่าง",
+        "price": 50,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-002-2",
+        "name": "ข้าวมันไก่",
+        "price": 45,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-002-3",
+        "name": "ก๋วยเตี๋ยวต้มยำ",
+        "price": 45,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-002-4",
+        "name": "ข้าวหมูกรอบ",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-003",
+    "name": "ก๋วยเตี๋ยวเรืออยุธยา",
+    "category": "ก๋วยเตี๋ยว",
+    "tags": [
+      "ก๋วยเตี๋ยว",
+      "บางมด"
+    ],
+    "rating": 4.4,
+    "reviewCount": 64,
+    "distanceKm": 0.4,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "น้ำซุปเข้มข้น เหมาะกับมื้อเร็ว ๆ ก่อนเข้าเรียน",
+    "menus": [
+      {
+        "id": "m-003-1",
+        "name": "ก๋วยเตี๋ยวเรือหมู",
+        "price": 45,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-003-2",
+        "name": "ก๋วยเตี๋ยวเรือเนื้อ",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-003-3",
+        "name": "เกาเหลาหมู",
+        "price": 60,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-003-4",
+        "name": "ลวกจิ้ม",
+        "price": 70,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-004",
+    "name": "ข้าวมันไก่สวนธน",
+    "category": "อาหารจานเดียว",
+    "tags": [
+      "อาหารจานเดียว",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.4,
+    "reviewCount": 81,
+    "distanceKm": 0.5,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เมนูคลาสสิก กินง่าย อิ่มไว",
+    "menus": [
+      {
+        "id": "m-004-1",
+        "name": "ข้าวมันไก่ต้ม",
+        "price": 50,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-004-2",
+        "name": "ข้าวมันไก่ทอด",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-004-3",
+        "name": "ข้าวมันไก่ผสม",
+        "price": 65,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-004-4",
+        "name": "ซุปฟัก",
+        "price": 15,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-005",
+    "name": "ไทยเดนมาร์ค Milk คาเฟ่",
+    "category": "คาเฟ่",
+    "tags": [
+      "คาเฟ่",
+      "บางมด"
+    ],
+    "rating": 4.5,
+    "reviewCount": 98,
+    "distanceKm": 0.6,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เครื่องดื่มและของว่างสำหรับพักระหว่างเรียน",
+    "menus": [
+      {
+        "id": "m-005-1",
+        "name": "นมสดเย็น",
+        "price": 35,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-005-2",
+        "name": "โกโก้เย็น",
+        "price": 45,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-005-3",
+        "name": "ชาไทย",
+        "price": 45,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-005-4",
+        "name": "ปังปิ้งเนยนม",
+        "price": 30,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-006",
+    "name": "manpuku ramen",
+    "category": "ญี่ปุ่น",
+    "tags": [
+      "ญี่ปุ่น",
+      "บางมด"
+    ],
+    "rating": 4.6,
+    "reviewCount": 115,
+    "distanceKm": 0.6,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เมนูญี่ปุ่นใกล้มอ รสชาติกินง่าย",
+    "menus": [
+      {
+        "id": "m-006-1",
+        "name": "ราเมงโชยุ",
+        "price": 89,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-006-2",
+        "name": "ราเมงต้มยำ",
+        "price": 99,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-006-3",
+        "name": "ข้าวหน้าไก่เทริยากิ",
+        "price": 79,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-006-4",
+        "name": "เกี๊ยวซ่า",
+        "price": 59,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-007",
+    "name": "บ้านขนมหวาน",
+    "category": "ของหวาน",
+    "tags": [
+      "ของหวาน",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.7,
+    "reviewCount": 132,
+    "distanceKm": 0.7,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ร้านของหวานสำหรับช่วงบ่ายหรือหลังเลิกเรียน",
+    "menus": [
+      {
+        "id": "m-007-1",
+        "name": "บิงซูสตรอว์เบอร์รี",
+        "price": 139,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-007-2",
+        "name": "ฮันนี่โทสต์",
+        "price": 119,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-007-3",
+        "name": "บัวลอยไข่หวาน",
+        "price": 45,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-007-4",
+        "name": "ชาไทยปั่น",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-008",
+    "name": "กิน กัน จัง ชาบู",
+    "category": "ชาบู",
+    "tags": [
+      "ชาบู",
+      "บางมด"
+    ],
+    "rating": 4.8,
+    "reviewCount": 149,
+    "distanceKm": 0.8,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เหมาะกับกินกับเพื่อนหลังเลิกเรียน",
+    "menus": [
+      {
+        "id": "m-008-1",
+        "name": "ชุดหมูชาบู",
+        "price": 159,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-008-2",
+        "name": "ชุดเนื้อชาบู",
+        "price": 189,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-008-3",
+        "name": "ข้าวหน้าหมูชาบู",
+        "price": 89,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-008-4",
+        "name": "เกี๊ยวหมู",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-009",
+    "name": "Hokkaido Curry Yukimi",
+    "category": "ญี่ปุ่น",
+    "tags": [
+      "ญี่ปุ่น",
+      "บางมด"
+    ],
+    "rating": 4.2,
+    "reviewCount": 166,
+    "distanceKm": 0.9,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "แกงกะหรี่หอมเข้ม เมนูอิ่มท้อง",
+    "menus": [
+      {
+        "id": "m-009-1",
+        "name": "ข้าวแกงกะหรี่หมูทอด",
+        "price": 89,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-009-2",
+        "name": "ข้าวแกงกะหรี่ไก่",
+        "price": 79,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-009-3",
+        "name": "คัตสึด้ง",
+        "price": 99,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-009-4",
+        "name": "ซุปมิโสะ",
+        "price": 25,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-010",
+    "name": "ครัวแซ่บอีหลี",
+    "category": "อีสาน",
+    "tags": [
+      "อีสาน",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.3,
+    "reviewCount": 183,
+    "distanceKm": 1.0,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "รสจัดจ้าน เหมาะกับคนอยากกินแซ่บ",
+    "menus": [
+      {
+        "id": "m-010-1",
+        "name": "ส้มตำไทย",
+        "price": 55,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-010-2",
+        "name": "ตำปูปลาร้า",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-010-3",
+        "name": "ลาบหมู",
+        "price": 75,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-010-4",
+        "name": "คอหมูย่าง",
+        "price": 95,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-011",
+    "name": "Daily Roast Café",
+    "category": "คาเฟ่",
+    "tags": [
+      "คาเฟ่",
+      "บางมด"
+    ],
+    "rating": 4.4,
+    "reviewCount": 200,
+    "distanceKm": 1.1,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "คาเฟ่โทนเรียบ เหมาะกับนั่งพัก",
+    "menus": [
+      {
+        "id": "m-011-1",
+        "name": "Iced Latte",
+        "price": 65,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-011-2",
+        "name": "Americano",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-011-3",
+        "name": "Matcha Latte",
+        "price": 75,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-011-4",
+        "name": "Butter Croissant",
+        "price": 69,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-012",
+    "name": "Burger Lab บางมด",
+    "category": "ฟาสต์ฟู้ด",
+    "tags": [
+      "ฟาสต์ฟู้ด",
+      "บางมด"
+    ],
+    "rating": 4.4,
+    "reviewCount": 217,
+    "distanceKm": 1.2,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เมนูอิ่มหนักสำหรับวันอยากกินฝรั่ง",
+    "menus": [
+      {
+        "id": "m-012-1",
+        "name": "Cheese Burger",
+        "price": 109,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-012-2",
+        "name": "Crispy Chicken Burger",
+        "price": 99,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-012-3",
+        "name": "French Fries",
+        "price": 49,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-012-4",
+        "name": "Chicken Nuggets",
+        "price": 69,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-013",
+    "name": "Green Bite Salad",
+    "category": "สุขภาพ",
+    "tags": [
+      "สุขภาพ",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.5,
+    "reviewCount": 234,
+    "distanceKm": 1.3,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ตัวเลือกสำหรับคนอยากกินเบา ๆ",
+    "menus": [
+      {
+        "id": "m-013-1",
+        "name": "สลัดอกไก่",
+        "price": 89,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-013-2",
+        "name": "ข้าวไรซ์เบอร์รี่อกไก่",
+        "price": 99,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-013-3",
+        "name": "แซนด์วิชทูน่า",
+        "price": 69,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-013-4",
+        "name": "โยเกิร์ตผลไม้",
+        "price": 59,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-014",
+    "name": "Sweet Cloud Dessert",
+    "category": "ของหวาน",
+    "tags": [
+      "ของหวาน",
+      "บางมด"
+    ],
+    "rating": 4.6,
+    "reviewCount": 251,
+    "distanceKm": 1.4,
+    "priceLevel": "฿",
+    "isOpen": false,
+    "highlight": "ของหวานและเครื่องดื่มสำหรับช่วงบ่าย",
+    "menus": [
+      {
+        "id": "m-014-1",
+        "name": "เค้กช็อกโกแลต",
+        "price": 85,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-014-2",
+        "name": "น้ำแข็งใส",
+        "price": 40,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-014-3",
+        "name": "วาฟเฟิล",
+        "price": 65,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-014-4",
+        "name": "นมสดคาราเมล",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-015",
+    "name": "ข้าวแกงบ้านเรา",
+    "category": "ข้าวแกง",
+    "tags": [
+      "ข้าวแกง",
+      "บางมด"
+    ],
+    "rating": 4.7,
+    "reviewCount": 268,
+    "distanceKm": 1.5,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ตักเร็ว ราคาเหมาะกับนักศึกษา",
+    "menus": [
+      {
+        "id": "m-015-1",
+        "name": "ข้าวแกง 2 อย่าง",
+        "price": 50,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-015-2",
+        "name": "แกงเขียวหวานไก่",
+        "price": 45,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-015-3",
+        "name": "พะแนงหมู",
+        "price": 50,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-015-4",
+        "name": "ไข่พะโล้",
+        "price": 35,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-016",
+    "name": "กะเพราว้าว",
+    "category": "ตามสั่ง",
+    "tags": [
+      "ตามสั่ง",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.8,
+    "reviewCount": 285,
+    "distanceKm": 1.5,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ร้านสายกะเพรา เมนูคุ้นเคย",
+    "menus": [
+      {
+        "id": "m-016-1",
+        "name": "กะเพราไก่ไข่ดาว",
+        "price": 50,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-016-2",
+        "name": "กะเพราหมูสับ",
+        "price": 50,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-016-3",
+        "name": "กะเพราทะเล",
+        "price": 75,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-016-4",
+        "name": "หมูกระเทียม",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-017",
+    "name": "Tea Space บางมด",
+    "category": "เครื่องดื่ม",
+    "tags": [
+      "เครื่องดื่ม",
+      "บางมด"
+    ],
+    "rating": 4.2,
+    "reviewCount": 42,
+    "distanceKm": 1.6,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เครื่องดื่มหวานเย็น ใกล้มหาลัย",
+    "menus": [
+      {
+        "id": "m-017-1",
+        "name": "ชานมไข่มุก",
+        "price": 45,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-017-2",
+        "name": "ชาไทย",
+        "price": 40,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-017-3",
+        "name": "โกโก้",
+        "price": 45,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-017-4",
+        "name": "นมสดบราวน์ชูการ์",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-018",
+    "name": "ปังปิ้งเตาถ่าน",
+    "category": "ของหวาน",
+    "tags": [
+      "ของหวาน",
+      "บางมด"
+    ],
+    "rating": 4.3,
+    "reviewCount": 59,
+    "distanceKm": 1.7,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ของว่างราคาดี",
+    "menus": [
+      {
+        "id": "m-018-1",
+        "name": "ปังปิ้งเนยนม",
+        "price": 25,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-018-2",
+        "name": "ปังปิ้งช็อกโกแลต",
+        "price": 30,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-018-3",
+        "name": "ปังปิ้งสังขยา",
+        "price": 35,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-018-4",
+        "name": "นมสดร้อน",
+        "price": 25,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-019",
+    "name": "หมูปิ้งนมสดหน้ามอ",
+    "category": "อาหารเช้า",
+    "tags": [
+      "อาหารเช้า",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.4,
+    "reviewCount": 76,
+    "distanceKm": 1.8,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เหมาะกับมื้อเช้าก่อนเข้าเรียน",
+    "menus": [
+      {
+        "id": "m-019-1",
+        "name": "หมูปิ้งนมสด",
+        "price": 15,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-019-2",
+        "name": "ข้าวเหนียว",
+        "price": 10,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-019-3",
+        "name": "ไก่ปิ้ง",
+        "price": 20,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-019-4",
+        "name": "น้ำเต้าหู้",
+        "price": 15,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-020",
+    "name": "Seoul Snack",
+    "category": "เกาหลี",
+    "tags": [
+      "เกาหลี",
+      "บางมด"
+    ],
+    "rating": 4.4,
+    "reviewCount": 93,
+    "distanceKm": 1.9,
+    "priceLevel": "฿฿",
+    "isOpen": true,
+    "highlight": "เมนูเกาหลีแบบกินง่าย",
+    "menus": [
+      {
+        "id": "m-020-1",
+        "name": "คิมบับ",
+        "price": 69,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-020-2",
+        "name": "ต๊อกบกกี",
+        "price": 79,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-020-3",
+        "name": "ไก่ทอดเกาหลี",
+        "price": 99,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-020-4",
+        "name": "รามยอน",
+        "price": 89,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-021",
+    "name": "Fruit Fresh",
+    "category": "สุขภาพ",
+    "tags": [
+      "สุขภาพ",
+      "บางมด"
+    ],
+    "rating": 4.5,
+    "reviewCount": 110,
+    "distanceKm": 2.0,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "สดชื่น เหมาะกับวันที่อากาศร้อน",
+    "menus": [
+      {
+        "id": "m-021-1",
+        "name": "น้ำส้มปั่น",
+        "price": 45,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-021-2",
+        "name": "สมูทตี้กล้วย",
+        "price": 55,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-021-3",
+        "name": "สลัดผลไม้",
+        "price": 60,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-021-4",
+        "name": "โยเกิร์ตผลไม้",
+        "price": 59,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-022",
+    "name": "ไก่ทอดกรอบกรอบ",
+    "category": "ฟาสต์ฟู้ด",
+    "tags": [
+      "ฟาสต์ฟู้ด",
+      "ใกล้ มจธ.",
+      "แนะนำ"
+    ],
+    "rating": 4.6,
+    "reviewCount": 127,
+    "distanceKm": 2.1,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "กรอบ อิ่มเร็ว เหมาะกับมื้อเร่งด่วน",
+    "menus": [
+      {
+        "id": "m-022-1",
+        "name": "ไก่ทอดชุดเล็ก",
+        "price": 59,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-022-2",
+        "name": "ข้าวไก่ทอด",
+        "price": 69,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-022-3",
+        "name": "เฟรนช์ฟรายส์",
+        "price": 49,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-022-4",
+        "name": "ไก่ป๊อป",
+        "price": 55,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-023",
+    "name": "ข้าวหน้าไข่ข้น",
+    "category": "อาหารจานเดียว",
+    "tags": [
+      "อาหารจานเดียว",
+      "บางมด"
+    ],
+    "rating": 4.7,
+    "reviewCount": 144,
+    "distanceKm": 2.2,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "เมนูไข่นุ่ม ๆ กินง่าย",
+    "menus": [
+      {
+        "id": "m-023-1",
+        "name": "ข้าวไข่ข้นกุ้ง",
+        "price": 69,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-023-2",
+        "name": "ข้าวไข่ข้นแฮม",
+        "price": 59,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-023-3",
+        "name": "ข้าวไข่ข้นหมูกรอบ",
+        "price": 79,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-023-4",
+        "name": "ข้าวไข่ข้นไก่ทอด",
+        "price": 75,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  },
+  {
+    "id": "r-024",
+    "name": "หมาล่าเบาเบา",
+    "category": "ปิ้งย่าง",
+    "tags": [
+      "ปิ้งย่าง",
+      "บางมด"
+    ],
+    "rating": 4.8,
+    "reviewCount": 161,
+    "distanceKm": 0.3,
+    "priceLevel": "฿",
+    "isOpen": true,
+    "highlight": "ของกินเล่นรสจัด เหมาะกับมื้อเย็น",
+    "menus": [
+      {
+        "id": "m-024-1",
+        "name": "หมาล่าไม้รวม",
+        "price": 15,
+        "popular": true,
+        "description": "เมนูยอดนิยมของร้าน รสชาติคุ้นเคย กินง่าย"
+      },
+      {
+        "id": "m-024-2",
+        "name": "หมูสามชั้นหมาล่า",
+        "price": 20,
+        "popular": false,
+        "description": "เหมาะกับวันที่เลือกไม่ถูกและอยากได้เมนูอิ่มคุ้ม"
+      },
+      {
+        "id": "m-024-3",
+        "name": "ไส้กรอกหมาล่า",
+        "price": 15,
+        "popular": false,
+        "description": "ตัวเลือกแนะนำสำหรับมื้อกลางวัน"
+      },
+      {
+        "id": "m-024-4",
+        "name": "เห็ดออรินจิ",
+        "price": 15,
+        "popular": false,
+        "description": "เมนูที่เข้ากับบรรยากาศนักศึกษา มจธ."
+      }
+    ],
+    "source": "Local dataset"
+  }
+]
